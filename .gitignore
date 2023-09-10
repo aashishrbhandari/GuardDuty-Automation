@@ -1,0 +1,4 @@
+infra-creation/.terraform/*
+infra-creation/terraform.*
+infra-creation/.terraform.*
+infra-creation/guardduty_alerts_slack.zip
