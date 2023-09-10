@@ -16,7 +16,7 @@ export TF_VAR_ELASTIC_FLEET_URL=https://9fee9f66b65e4906af469989897d4204.fleet.u
 export TF_VAR_TERRAFORM_STATE_FILE_STATUS=Yes
 export TF_VAR_SLACK_WEBHOOK_URL=https://hooks.slack.com/services/T04XXXXXXXXXXXXXXXXXXXXXXXXX/XXXXXXXXXXXXX
 ```
-3. make sure you have exported the AWS Programmatic Keys
+3. Make sure you have exported the AWS Programmatic Keys
 my own way is shown below
 ```
 export AWS_ACCESS_KEY_ID=AKIAJDIFLSDJFOPW ; export AWS_SECRET_ACCESS_KEY="uhHJAS/ASDJUASDYQOLAJSDBCALSDJLIWE" ; export AWS_DEFAULT_REGION="us-east-1"
