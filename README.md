@@ -2,7 +2,8 @@
 
 #### A Mini-Project on GuardDuty & AWS Security Automation
 
-> A Simple GuardDuty Automation Project, which uses Terraform to Setup Guardduty, EventBridge/CloudWatch Events Rule, Lambda Code and Some Test Env to Trigger Alert. The Main Intention of creating this Automation is to learn about GuardDuty and Test Guardduty.
+> A Simple GuardDuty Automation Project, which uses Terraform to Setup Guardduty, EventBridge/CloudWatch Events Rule, Lambda Code and Some Test Environment to Trigger Alerts.
+The Main Intention of creating this Automation is to learn about GuardDuty and Build Automation around it.
 
 
 #### How to setup?
